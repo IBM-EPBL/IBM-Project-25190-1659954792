@@ -1,0 +1,9 @@
+Functional Requirements:
+• Taking sensor reading from the Sensor Circuit
+• Pushing the data to a MySQL database.
+• Retrieving information from database for Calculation
+garbage bin which fulfils the condition for garbage
+collection, example: Collect garbage from bins whose level is
+over 80% of bin.
+• A client side script to get Garbage collection live
+Monitoring.
